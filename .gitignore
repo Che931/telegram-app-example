@@ -1,0 +1,3 @@
+*.session
+settings.py
+.idea
